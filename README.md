@@ -20,3 +20,8 @@ This project is my AI Capstone Project. It demonstrates AI concepts and practica
 
 ## Author
 Bushra Aslam
+## Features
+
+- AI-powered project
+- Clean folder structure
+- Git version control
